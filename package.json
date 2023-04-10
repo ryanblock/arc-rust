@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "arc sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.12.0-RC.0",
+    "@architect/plugin-rust": "^0.1.0"
+  }
+}

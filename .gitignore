@@ -1,0 +1,5 @@
+.build
+node_modules
+sam.*
+scratch
+src/http/get-index
